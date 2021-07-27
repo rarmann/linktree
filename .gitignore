@@ -1,5 +1,3 @@
-
-.DS_Store
+echo .DS_Store >> .gitignore
 .vscode/settings.json
-.DS_Store
-.DS_Store
+img/.DS_Store
