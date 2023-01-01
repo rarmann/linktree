@@ -3,3 +3,4 @@ echo .DS_Store >> .gitignore
 **/.DS_Store
 img/.DS_Store
 .gitattributes
+.prettierignore
